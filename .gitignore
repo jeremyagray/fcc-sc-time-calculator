@@ -2,4 +2,6 @@
 *~
 
 # Python.
+.coverage
 __pycache__
+htmlcov
